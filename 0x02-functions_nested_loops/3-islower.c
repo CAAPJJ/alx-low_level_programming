@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - checks for lowercase character
+ * _islower - returns 1 if lowercase alphabet and 0 otherwise
  * @x: takes in a character
  * return: : 0 for uppercase, 1 for lowercase
  **/
