@@ -2,7 +2,7 @@
 /**
  * _islower - checks for lowercase character
  * @x: takes in a character
- * return:0 for uppercase, 1 for lowercase
+ * return: : 0 for uppercase, 1 for lowercase
  **/
 int _islower(int x)
 {
