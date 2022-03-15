@@ -1,7 +1,19 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - putchar file
- * description - a program that prints _putchar
+ * main - alphabet file
+ * description - a program that prints alphabet
  * Return: always 0
 **/
-void print_alphabet(void);
+int main(void)
+{
+	print_alphabet_x10()
+	{
+		int i;
+for (i = 'a'; i <= 'z'; i++)
+    _putchat('a');
+    
+	}
+_putchar('\n');
+return (0);
+}
+
