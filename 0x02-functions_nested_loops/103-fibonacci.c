@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - write a program that finds and prints the sum of valued terms 
+ * main - write a program that finds and prints the sum of valued terms
  * Return: Always 0 (Success)
  */
 int main(void)
