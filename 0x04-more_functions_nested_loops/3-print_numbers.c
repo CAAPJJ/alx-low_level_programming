@@ -2,7 +2,7 @@
 /**
  * print_numbers - prints the prodduct
  *@i: character
- *Return:the product
+ *Return: 0
  */
 void print_numbers(void)
 {
