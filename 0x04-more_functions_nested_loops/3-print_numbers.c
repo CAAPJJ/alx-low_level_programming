@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * print_numbers - prints the numbers
- *
+ * print_numbers - prints the prodduct
+ *@i: character
+ *Return:the product
  */
 void print_numbers(void)
 {
