@@ -1,8 +1,11 @@
 #include "main.h"
+
 /**
  * print_numbers - prints numbers between 0 to 9.
- * Return: no return.
+ * Description: Prints the number with _putchar
+ * Return: void.
  */
+
 void print_numbers(void)
 {
 	int c;
